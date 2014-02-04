@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: Recommender="viewed_jobs=_BKAUHMy1q5lYGHb1Xfpqg--"; path="/"; domain=".hotjobs.yahoo.com"; path_spec; expires="2011-01-08 11:15:11Z"; version=0

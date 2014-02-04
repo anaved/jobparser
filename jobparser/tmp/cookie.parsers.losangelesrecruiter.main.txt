@@ -1,0 +1,6 @@
+#LWP-Cookies-2.0
+Set-Cookie3: VISIT50322=0d3a65507d4f8e6be70abf2986c491d2; path="/"; domain=".dice.com"; path_spec; domain_dot; expires="2012-12-08 11:13:16Z"; version=0
+Set-Cookie3: Recommender="viewed_jobs=POIuZ5cyjeexVXmkVGpSfOb4Ss7h8ljmPSSNcw--"; path="/"; domain=".hotjobs.yahoo.com"; path_spec; expires="2011-01-08 11:13:03Z"; version=0
+Set-Cookie3: job_detail_login=1; path="/"; domain=".www.amightyriver.com"; path_spec; expires="2010-12-16 11:13:15Z"; version=0
+Set-Cookie3: Apache="122.170.73.42.1291893218208963"; path="/"; domain="jama.careers.adicio.com"; path_spec; expires="2010-12-10 11:13:38Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jama.careers.adicio.com"; path_spec; expires="2011-01-09 11:13:38Z"; version=0

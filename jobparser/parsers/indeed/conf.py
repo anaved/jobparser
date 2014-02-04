@@ -1,0 +1,104 @@
+# To change this template, choose Tools | Templates
+# and open the template in the editor.
+
+__author__ = "naved"
+__date__ = "$28 Dec, 2010 4:33:13 PM$"
+
+domains = [
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=AL&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=AK&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=AZ&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=AR&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=CA&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=CO&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=CT&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=DE&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=FL&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=GA&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=HI&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=ID&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=IL&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=IN&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=IA&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=KS&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=KY&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=LA&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=ME&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=MD&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=MA&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=MI&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=MN&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=MS&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=MO&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=MT&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=NE&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=NV&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=NH&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=NJ&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=NM&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=NY&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=NC&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=ND&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=OH&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=OK&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=OR&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=PA&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=RI&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=SC&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=SD&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=TN&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=TX&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=UT&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=VT&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=VA&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=WA&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=WV&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=WI&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)',
+    'http://api.indeed.com/ads/apisearch?publisher=1303284387458115&q=%s&l=WY&jt=&sort=date&radius=&st=jobsite&jt=&start=0&limit=100&fromage=1&filter=&latlong=1&co=us&chnl=&userip=1.2.3.4&useragent=Mozilla//4.0(Firefox)'
+]
+#TODO later pick subdomains from package info, maybe __init__ file
+ignore_list = [
+'careerrookie',#done
+'adicio',#done
+'adminfinder',#done
+'al\.',#done
+'amightyriver',#done
+'careerboard',#done
+'careerbuilder',#done
+'careercast',#done
+'chronicle',#done
+'computerjobs',#done
+'dice',#done
+'hcareers',#done
+'healthcarejobsite',#done
+'higheredjobs',#done
+'hirediversity',#done
+'hirefinders',#done
+'hirelifescience',#done
+'icims',#done
+'idealist',#done
+'ihispano',#done
+'jobcircle',#done
+'jobpath',#done
+'k12jobspot',#done
+'miracleworkers',#done
+'mlive',#done
+'monster',#done
+'nationjob',#done
+'nj',#done
+'nurse',#done
+'nursingrehabjobs',#done
+'nwjobs',#done
+'oregonlive',#done
+'pharmacyjobcenter',#done
+'postjobfree',#done
+'regionalhelpwanted',#done
+'retailcareersnow',#done
+'retiredbrains',#done
+'taleo',#done
+'texashealthjobs',#done
+'therapyjobs',#done
+'tiptopjob',#done
+'washingtonpost',#done
+'yahoo',#done
+]

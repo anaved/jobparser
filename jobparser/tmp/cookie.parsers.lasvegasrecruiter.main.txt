@@ -1,0 +1,9 @@
+#LWP-Cookies-2.0
+Set-Cookie3: VISIT50322=31d00100805537f17980766750287b52; path="/"; domain=".dice.com"; path_spec; domain_dot; expires="2012-12-08 11:08:43Z"; version=0
+Set-Cookie3: Recommender="viewed_jobs=NkXBo1Iy0r.tV3tLmJQ2Ase9UyE6h.dvWx0EX3a4tTJgYX1LCgsVgcs2zNLrTUnqPEtTTpoOPCgJj2JBFTiN4Q--"; path="/"; domain=".hotjobs.yahoo.com"; path_spec; expires="2011-01-08 11:08:21Z"; version=0
+Set-Cookie3: jsCrit="jobviewocc%3d1.14866"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-11-12 21:00:16Z"; version=0
+Set-Cookie3: split_scsjsv=16; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-11-12 21:00:09Z"; version=0
+Set-Cookie3: split_ssljsv=41; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-11-12 21:00:10Z"; version=0
+Set-Cookie3: Apache="122.170.73.42.1291892927768607"; path="/"; domain="jobs.pharmacyjobcenter.com"; path_spec; expires="2010-12-10 11:08:47Z"; version=0
+Set-Cookie3: Apache="122.170.73.42.1291892923493878"; path="/"; domain="wkdiversity.careers.adicio.com"; path_spec; expires="2010-12-10 11:08:43Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="wkdiversity.careers.adicio.com"; path_spec; expires="2011-01-09 11:08:43Z"; version=0

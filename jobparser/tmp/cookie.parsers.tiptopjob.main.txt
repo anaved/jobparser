@@ -1,0 +1,12 @@
+#LWP-Cookies-2.0
+Set-Cookie3: auth=""; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: language=ENG; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: scouid=USA; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: sessiondate=""; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: sessionid=""; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: source=""; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: sseaby=1; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: testvalue=""; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: uniqueuserid=1320114525317573; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: usertype=""; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0
+Set-Cookie3: usr=""; path="/"; domain="www.tiptopjob.com"; path_spec; expires="2011-03-30 23:00:00Z"; version=0

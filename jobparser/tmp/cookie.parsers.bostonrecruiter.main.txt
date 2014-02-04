@@ -1,0 +1,7 @@
+#LWP-Cookies-2.0
+Set-Cookie3: CJGUID=3de7e61cfddb4e289a13b48561fa482e; path="/"; domain=".computerjobs.com"; path_spec; domain_dot; expires="2035-12-09 05:00:00Z"; version=0
+Set-Cookie3: CJSESSION=3788783b8c9543b893fa71a39f5ab652; path="/"; domain=".computerjobs.com"; path_spec; domain_dot; expires="2010-12-09 13:14:46Z"; version=0
+Set-Cookie3: VISIT50322=2608283f6bf5b4c6d5d20c84f2d95f0c; path="/"; domain=".dice.com"; path_spec; domain_dot; expires="2012-12-08 11:14:46Z"; version=0
+Set-Cookie3: jsCrit="%26jobviewocc%3d1.11817"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-12-09 11:14:51Z"; version=0
+Set-Cookie3: Apache="122.170.73.42.1291893291281014"; path="/"; domain="jama.careers.adicio.com"; path_spec; expires="2010-12-10 11:14:51Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jama.careers.adicio.com"; path_spec; expires="2011-01-09 11:14:51Z"; version=0

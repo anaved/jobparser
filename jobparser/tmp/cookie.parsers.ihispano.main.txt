@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: SESSa672ab8c34e46bf0f4566ba23e74fedd=ijf06ggt93k6mv8g1nttjploe2; path="/"; domain=".ihispano.com"; path_spec; domain_dot; expires="2011-02-05 16:17:30Z"; version=0

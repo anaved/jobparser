@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: VISIT50322=7ff03d81c38b5762f9b72b7b47c57443; path="/"; domain=".dice.com"; path_spec; domain_dot; expires="2012-11-12 08:28:12Z"; version=0
+Set-Cookie3: JobCircle; path="/"; domain=".jobcircle.com"; path_spec; domain_dot; expires="2012-11-17 10:59:43Z"; Visit="59.182.183.171.313191290077983679"; version=0
+Set-Cookie3: jsCrit="jobviewocc%3d3561.11929"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-11-17 10:07:06Z"; version=0

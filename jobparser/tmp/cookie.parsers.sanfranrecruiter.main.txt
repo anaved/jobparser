@@ -1,0 +1,12 @@
+#LWP-Cookies-2.0
+Set-Cookie3: VISIT50322=ceb40154eaf5810485a68e18b7223e84; path="/"; domain=".dice.com"; path_spec; domain_dot; expires="2012-12-08 11:11:31Z"; version=0
+Set-Cookie3: Recommender="viewed_jobs=A74xhNoy0uVPWO396e8wF1_v0kjYQInNIz51IdK_4BHveKXUHu3vXg--"; path="/"; domain=".hotjobs.yahoo.com"; path_spec; expires="2011-01-08 11:12:02Z"; version=0
+Set-Cookie3: jsCrit="jobviewocc%3d4.11867"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-12-09 11:11:31Z"; version=0
+Set-Cookie3: job_detail_login=1; path="/"; domain=".www.amightyriver.com"; path_spec; expires="2010-12-16 11:11:31Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="careers.diversityinc.com"; path_spec; expires="2010-12-18 11:49:06Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jobcure.careers.adicio.com"; path_spec; expires="2010-12-18 11:47:26Z"; version=0
+Set-Cookie3: Apache="122.170.73.42.1291893083400761"; path="/"; domain="nbmbaa.careers.adicio.com"; path_spec; expires="2010-12-10 11:11:23Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="nbmbaa.careers.adicio.com"; path_spec; expires="2011-01-09 11:11:31Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="tulsa.careers.adicio.com"; path_spec; expires="2010-12-18 11:47:38Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="wkdiversity.careers.adicio.com"; path_spec; expires="2010-12-18 11:47:45Z"; version=0
+Set-Cookie3: PORTAL="NEWUSERSITE=&LASTJOB=28814863&INSTANCEPORT=0&PARTNER=HEALTHCAREJOBSITE%2ECOM&CookieVersion=1%2E8&HTTPREFERRER=&USERCOUNTRY=IN&USERGID=559586559423446189&USERSTATE=MAHARASHTRA"; path="/"; domain="www.healthcarejobsite.com"; path_spec; expires="2011-11-18 05:00:00Z"; version=0

@@ -1,0 +1,51 @@
+__author__ = "naved"
+__date__ = "$1 Nov, 2010 5:13:55 PM$"
+__all__ = [
+#'careerrookie',#done
+'adicio',#done
+#'adminfinder',#done
+#'al',#done
+#'amightyriver',#done
+#'careerboard',#done
+##'careerbuilder',#done
+#'careercast',#done
+#'chronicle',#done
+#'computerjobs',#done
+#'dice',#done
+#'hcareers',#done
+#'healthcarejobsite',#done
+#'higheredjobs',#done
+#'hirediversity',#done
+#'hirefinders',#done
+#'hirelifescience',#done
+#'icims',#done
+#'idealist',#DO AGAIN PROBLEM
+#'ihispano',#done
+#'indeed',#done
+#'jobcircle',#done
+#'jobcom',#done
+#'jobpath',#done
+#'k12jobspot',#done
+#'miracleworkers',#done
+#'mlive',#done
+#'monster',#done
+#'nationjob',#done
+#'nj',#done
+#'nurse',#done
+#'nursingrehabjobs',#done
+#'nwjobs',#done
+#'oregonlive',#done
+#'pharmacyjobcenter',#done
+###'physiciancrossroads',#PROBLEM
+#'postjobfree',#done
+#'regionalhelpwanted',#done
+#'retailcareersnow',#done
+#'retiredbrains',#done
+#'taleo',#done
+#'texashealthjobs',#done
+#'therapyjobs',#done
+#'tiptopjob',#done
+###'utexas',#PROBLEM
+#'washingtonpost',#done
+#'yahoo',#done
+]

@@ -1,0 +1,3 @@
+#LWP-Cookies-2.0
+Set-Cookie3: VISIT50322=ae0a7e289d7ec1e1ad14c3eafafe24ae; path="/"; domain=".dice.com"; path_spec; domain_dot; expires="2012-12-08 11:34:44Z"; version=0
+Set-Cookie3: Apache="122.170.73.42.1291892005025020"; path="/"; domain="jobs.oregonlive.com"; path_spec; expires="2010-12-10 10:53:25Z"; version=0

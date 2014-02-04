@@ -1,0 +1,3 @@
+#LWP-Cookies-2.0
+Set-Cookie3: CTK=15on33rmj0g0g0sf; path="/"; domain=".indeed.com"; path_spec; domain_dot; expires="2028-02-21 06:07:38Z"; version=0
+Set-Cookie3: Apache="122.169.14.129.1297855147679310"; path="/"; domain="jobs.al.com"; path_spec; expires="2011-02-17 11:19:07Z"; version=0

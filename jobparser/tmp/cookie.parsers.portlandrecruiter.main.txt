@@ -1,0 +1,3 @@
+#LWP-Cookies-2.0
+Set-Cookie3: job_detail_login=1; path="/"; domain=".www.amightyriver.com"; path_spec; expires="2010-12-16 10:53:19Z"; version=0
+Set-Cookie3: redirectUrl="%2Fjobdetails%2F%3FjobID%3D130381"; path="/"; domain="www.hirefinders.com"; path_spec; expires="2010-12-09 12:49:21Z"; version=0

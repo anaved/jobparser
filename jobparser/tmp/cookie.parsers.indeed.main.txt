@@ -1,0 +1,3 @@
+#LWP-Cookies-2.0
+Set-Cookie3: accept_cookie_test=yes; path="/advancedpracticejobs/"; domain=".healthjobsnationwide.com"; path_spec; domain_dot; expires="2011-02-11 11:06:04Z"; version=0
+Set-Cookie3: accookies=1; path="/usa"; domain="www.media-match.com"; expires="2011-02-09 12:06:14Z"; version=0

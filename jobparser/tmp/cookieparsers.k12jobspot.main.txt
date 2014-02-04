@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: .ASPXANONYMOUS="TU4UnOe4ywEkAAAAYjhlYTE0NWEtNjliZC00MTMxLWE1YTEtYTYyMjg4YTVhOTEztDhCO9b7VHZjO1Q2-5DG1HC13BA1"; path="/"; domain="k12jobspot.com"; path_spec; expires="2011-01-20 21:18:40Z"; HttpOnly=None; version=0

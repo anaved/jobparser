@@ -1,0 +1,6 @@
+#LWP-Cookies-2.0
+Set-Cookie3: sh2="cso%3D4d4fb53a%3Bslu%3D0%3Bref%3Dsh"; path="/"; domain=".nationaljobs.washingtonpost.com"; path_spec; expires="2012-02-08 09:02:50Z"; version=0
+Set-Cookie3: sh3="id%3D10026859984d4fb53acee000.34442008%3Brv%3D797bd2bc%3Bcv%3D2"; path="/"; domain=".nationaljobs.washingtonpost.com"; path_spec; expires="2012-02-08 09:02:50Z"; version=0
+Set-Cookie3: shabts=none; path="/"; domain=".nationaljobs.washingtonpost.com"; path_spec; expires="2011-04-08 09:02:51Z"; version=0
+Set-Cookie3: gc=1; path="/"; domain="nationaljobs.washingtonpost.com"; path_spec; expires="2011-02-08 09:02:50Z"; version=0
+Set-Cookie3: shup="fvt%3D4d4fb53a%26ncs%3D1%26lst%3D4d4fb53b"; path="/"; domain="nationaljobs.washingtonpost.com"; path_spec; expires="2011-03-09 09:02:51Z"; version=0

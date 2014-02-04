@@ -1,0 +1,14 @@
+#LWP-Cookies-2.0
+Set-Cookie3: Apache="59.182.188.34.1294839276012774"; path="/"; domain="jobs.cleveland.com"; path_spec; expires="2011-01-13 13:34:36Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jobs.cleveland.com"; path_spec; expires="2011-02-12 13:34:48Z"; version=0
+Set-Cookie3: Apache="59.182.188.34.1294837941279098"; path="/"; domain="jobs.lehighvalleylive.com"; path_spec; expires="2011-01-13 13:12:21Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jobs.lehighvalleylive.com"; path_spec; expires="2011-02-12 13:33:51Z"; version=0
+Set-Cookie3: Apache="59.182.188.34.1294839255442563"; path="/"; domain="jobs.mlive.com"; path_spec; expires="2011-01-13 13:34:15Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jobs.mlive.com"; path_spec; expires="2011-02-12 13:34:26Z"; version=0
+Set-Cookie3: Apache="59.182.188.34.1294837674151688"; path="/"; domain="jobs.nj.com"; path_spec; expires="2011-01-13 13:07:54Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jobs.nj.com"; path_spec; expires="2011-02-12 13:31:21Z"; version=0
+Set-Cookie3: Apache="59.182.188.34.1294839299054000"; path="/"; domain="jobs.nola.com"; path_spec; expires="2011-01-13 13:34:59Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jobs.nola.com"; path_spec; expires="2011-02-12 13:38:28Z"; version=0
+Set-Cookie3: Apache="59.182.188.34.1294839518685856"; path="/"; domain="jobs.working.com"; path_spec; expires="2011-01-13 13:38:38Z"; version=0
+Set-Cookie3: adicio_careers_rsite=careercast; path="/"; domain="jobs.working.com"; path_spec; expires="2011-02-12 13:41:58Z"; version=0
+Set-Cookie3: Apache="59.182.188.34.1294837643281133"; path="/"; domain="www.careercast.com"; path_spec; expires="2011-01-13 13:07:23Z"; version=0

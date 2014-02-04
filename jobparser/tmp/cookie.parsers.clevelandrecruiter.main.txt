@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: Recommender="viewed_jobs=R0XSz_AyjLj4ExvXevFEHO3WMXf4R2_9I72mpQ--"; path="/"; domain=".hotjobs.yahoo.com"; path_spec; expires="2011-01-08 11:11:59Z"; version=0
+Set-Cookie3: JobCircle; path="/"; domain=".jobcircle.com"; path_spec; domain_dot; expires="2012-11-11 23:04:00Z"; Visit="59.182.172.206.252991289603040250"; version=0
+Set-Cookie3: jsCrit="jobviewocc%3d1.11893"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-11-13 10:45:01Z"; version=0

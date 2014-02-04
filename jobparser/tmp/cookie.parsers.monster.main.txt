@@ -1,0 +1,11 @@
+#LWP-Cookies-2.0
+Set-Cookie3: CJGUID=cc92908a4b494023bf8fa504761ed9a6; path="/"; domain=".computerjobs.com"; path_spec; domain_dot; expires="2035-12-09 05:00:00Z"; version=0
+Set-Cookie3: VISIT50322=d2e9225971365a5375045c9a3c2f6c67; path="/"; domain=".dice.com"; path_spec; domain_dot; expires="2012-12-08 11:07:49Z"; version=0
+Set-Cookie3: JobCircle; path="/"; domain=".jobcircle.com"; path_spec; domain_dot; expires="2012-12-08 11:17:12Z"; Visit="122.170.73.42.100531291893432844"; version=0
+Set-Cookie3: jsCrit="%26jobviewocc%3d11455.11968"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2012-02-09 13:40:19Z"; version=0
+Set-Cookie3: jsResultsCount="q%3d%26rad%3d20%26rad_units%3dmiles%26tm%3d60%26dv%3d%26pg%3d1%26pp%3d500%26sort%3ddt.rv%26tcount%3d202899%26lcount%3d12458"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2012-02-09 13:03:56Z"; version=0
+Set-Cookie3: pjsrscore=50; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-12-09 11:07:50Z"; version=0
+Set-Cookie3: split_scsjsv=36; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-12-09 11:07:49Z"; version=0
+Set-Cookie3: split_ssljsv=50; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-12-09 11:07:50Z"; version=0
+Set-Cookie3: uslc=1; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-02-16 13:39:50Z"; version=0
+Set-Cookie3: PORTAL="LASTJOB=29326670&NEWUSERSITE=&DIDIPLKUP=Y&USERSTATE=CALIFORNIA&HTTPREFERRER=&USERGID=452284337061404028&USERCOUNTRY=US&CookieVersion=1%2E8&INSTANCEPORT=0&PARTNER=HEALTHCAREJOBSITE%2ECOM"; path="/"; domain="www.healthcarejobsite.com"; path_spec; expires="2011-12-09 05:00:00Z"; version=0

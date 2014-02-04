@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: Recommender="viewed_jobs=zeUjmF0y17hoCRsxuqt8qMdCf6036a0Zw.kEQ_KWyJcNCCsBmd2Ykpo72UGyYbv4JsV02b.cRvdXuUIppPlzP_g6G_nyP4saXXTWnYwMD4QEU_0u6iGNRXXApSFVsJqFjBLQeePtRLQ9ET2mPiin7BBES3XMnK0iALcIHw--"; path="/"; domain=".hotjobs.yahoo.com"; path_spec; expires="2011-01-08 11:08:15Z"; version=0
+Set-Cookie3: jsCrit="%26jobviewocc%3d2.11713"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2011-11-17 13:30:33Z"; version=0
+Set-Cookie3: job_detail_login=1; path="/"; domain=".www.amightyriver.com"; path_spec; expires="2010-12-16 11:08:17Z"; version=0
+Set-Cookie3: redirectUrl="%2Fjobdetails%2F%3FjobID%3D132440"; path="/"; domain="www.hirefinders.com"; path_spec; expires="2010-12-10 15:05:19Z"; version=0

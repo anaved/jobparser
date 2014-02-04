@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: Recommender="viewed_jobs=dr_LDWMylbdNNb9q9mc345SlOdx0YZ4vLO0wqkxH9RRxIaFcpBaC2HUOYSzZhyCWIqh4RZDgHUD1Qxne6xCiEnLgtcxTcQFx4jsTh0pLSANVLA1aJu6hCgibQIuzX6jwgqJ4mwf37SZEhGbd9niNYgpXcQ2waGrMM3Smsg--"; path="/"; domain=".hotjobs.yahoo.com"; path_spec; expires="2011-03-09 09:03:20Z"; version=0
+Set-Cookie3: jsCrit="%26jobviewocc%3d10.11735"; path="/"; domain=".monster.com"; path_spec; domain_dot; expires="2012-02-04 12:04:13Z"; version=0
+Set-Cookie3: C_UI="%23122169014129%23"; path="/"; domain=".monsterindia.com"; path_spec; expires="2011-08-13 07:20:52Z"; version=0
+Set-Cookie3: C_UL="8%2C154"; path="/"; domain=".monsterindia.com"; path_spec; expires="2011-03-01 07:20:52Z"; version=0

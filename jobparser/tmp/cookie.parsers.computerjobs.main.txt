@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: CJGUID=3d67f826619f46f399b43d016f128f86; path="/"; domain=".computerjobs.com"; path_spec; domain_dot; expires="2036-02-07 05:00:00Z"; version=0
